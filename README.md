@@ -1,3 +1,9 @@
+# link to the working project
+https://youtu.be/rQH1p1pDVP4
+ 
+# This project was a recruiting portal created by using REACT .one can look though the live jobs, can either accept it by storing it in the accepting list or can reject it by storing the rejected jobs in the reject list.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
